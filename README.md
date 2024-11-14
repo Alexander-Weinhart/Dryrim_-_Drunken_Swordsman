@@ -1,0 +1,2 @@
+# Dryrim - Drunken Swordsman
+A school project for "Advanced Topics" class. My professor told me after I presented this, "Nobody has ever handed in a full videogame in the history of this college." and it is a videogame. I designed this videogame to show the class that I have an advanced understanding on my topic, which was JavaScript. The game was designed to sell Tequila for a fictitious tequila company. If you beat the game, you get 50% off a bottle of tequila. I spent 2 months on this project.
